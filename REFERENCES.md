@@ -15,3 +15,15 @@ StackOverflow ideas :
 
 Image processing in C :
 * https://homepages.inf.ed.ac.uk/rbf/BOOKS/PHILLIPS/cips2ed.pdf
+
+Library to use bitmap in c (libbmp) :
+* https://github.com/marc-q/libbmp
+
+Image2Ascii conversion - State of the art :
+* http://www.jave.de/image2ascii/algorithms.html
+
+Different Grayscale algorithms :
+* https://tannerhelland.com/2011/10/01/grayscale-image-algorithm-vb6.html
+
+Character representation of grey scale images :
+* http://paulbourke.net/dataformats/asciiart/
